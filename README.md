@@ -19,7 +19,7 @@ git clone https://github.com/gadroen/swisstronik-erc721-gdr.git
 ```
 
 ```
-cd swisstronik-erc721-mint-token
+cd swisstronik-erc721-gdr
 ```
 
 ### 2. Install Dependency
